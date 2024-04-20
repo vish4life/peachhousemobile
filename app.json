@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "peachhouse",
+    "slug": "peachhouse",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logos/logo4.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/logos/logo4.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logos/logo4.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/logos/logo4.png"
+    }
+  }
+}
