@@ -1,7 +1,10 @@
 # Peach House mobile
 ## URL's
 > Figma : https://www.figma.com/proto/g8mBIuT9U3SRSB2bUqEoLt/Figma-basics?type=design&node-id=610-5&t=MsxUnQND4zUHMuJv-0&scaling=scale-down&page-id=610%3A3
+* Wireframe
 > ![wireframe]https://github.com/vish4life/peachhousemobile/tree/main/assets/snapshots/00_wireframe_figma.JPG
+* Wireframe Learning
+> ![wireframe_learning]https://github.com/vish4life/peachhousemobile/tree/main/assets/snapshots/00_01_wireframe_draft_figma.JPG
 
 ## Project Screenshots
 
