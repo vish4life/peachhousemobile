@@ -15,7 +15,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.codingvish.peachhouse"
     },
     "android": {
       "adaptiveIcon": {
@@ -25,6 +26,11 @@
     },
     "web": {
       "favicon": "./assets/images/logos/logo4.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "51be894b-cd68-4319-bc94-673d57bc5bcb"
+      }
     }
   }
 }
